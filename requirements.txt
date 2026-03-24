@@ -1,0 +1,7 @@
+streamlit
+
+python-nmap
+
+reportlab
+
+pandas
